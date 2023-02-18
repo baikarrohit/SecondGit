@@ -1,2 +1,2 @@
-console.log("i hate git")
+console.log("i love git")
 
